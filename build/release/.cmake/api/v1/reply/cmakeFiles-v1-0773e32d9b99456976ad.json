@@ -1,0 +1,528 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/release/CMakeFiles/3.28.1/CMakeSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/scripts/buildsystems/vcpkg.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Darwin-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/release/CMakeFiles/3.28.1/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/release/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Darwin.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/AppleClang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-AppleClang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Platform/Apple-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/glm/glmConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/glm/glmConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/glm/glmConfig-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/glm/glmConfig-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/glfw3/glfw3ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/glfw3/glfw3Config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/glfw3/glfw3Targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/glfw3/glfw3Targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/glfw3/glfw3Targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/glad/gladConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/glad/gladConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/glad/gladTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/glad/gladTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/glad/gladTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/assimp/assimpConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/assimp/assimpConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/pugixml/pugixml-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/pugixml/pugixml-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/pugixml/pugixml-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/pugixml/pugixml-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/pugixml/pugixml-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/kubazip/kubazipConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/kubazip/kubazipConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/kubazip/kubazipTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/kubazip/kubazipTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/kubazip/kubazipTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/unofficial-minizip/unofficial-minizipConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/unofficial-minizip/unofficial-minizipConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/zlib/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindZLIB.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/unofficial-minizip/unofficial-minizipTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/unofficial-minizip/unofficial-minizipTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/unofficial-minizip/unofficial-minizipTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/poly2tri/poly2triConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/poly2tri/poly2triConfig-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/poly2tri/poly2triConfig-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/polyclipping/polyclippingConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/polyclipping/polyclippingConfig-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/polyclipping/polyclippingConfig-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/rapidjson/RapidJSONConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/rapidjson/RapidJSONConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/stb/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/stb/FindStb.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/utf8cpp/utf8cppConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/utf8cpp/utf8cppConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/utf8cpp/utf8cppTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/assimp/assimpTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/assimp/assimpTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/assimp/assimpTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/spdlog/spdlogConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/spdlog/spdlogConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/fmt/fmt-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/fmt/fmt-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/fmt/fmt-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/fmt/fmt-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/fmt/fmt-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/spdlog/spdlogConfigTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/spdlog/spdlogConfigTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/spdlog/spdlogConfigTargets-release.cmake"
+		},
+		{
+			"path" : "Engine/CMakeLists.txt"
+		},
+		{
+			"path" : "Game/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/Users/peterfarber/CLionProjects/Society/build/release",
+		"source" : "/Users/peterfarber/CLionProjects/Society"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

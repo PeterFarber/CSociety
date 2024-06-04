@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja "-DCMAKE_TOOLCHAIN_FILE=/Users/peterfarber/.vcpkg-clion/vcpkg (1)/scripts/buildsystems/vcpkg.cmake" -G Ninja -S /Users/peterfarber/CLionProjects/Society -B /Users/peterfarber/CLionProjects/Society/build/debug
+-- RapidJSON found. Headers: /Users/peterfarber/.vcpkg-clion/vcpkg (1)/installed/arm64-osx/share/rapidjson/../../include
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/peterfarber/CLionProjects/Society/build/debug

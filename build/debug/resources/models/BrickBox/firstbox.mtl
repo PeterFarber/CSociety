@@ -1,0 +1,14 @@
+# Blender 4.1.1 MTL File: 'firstbox.blend'
+# www.blender.org
+
+newmtl Material
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 2
+map_Kd brick-wall_albedo.png
+map_Ns brick-wall_roughness.png
+map_Ks brick-wall_metallic.png
+map_Bump brick-wall_normal-ogl.png
